@@ -1,0 +1,37 @@
+.b-tag {
+  color: green;
+  color: red;
+}
+.nav .a {
+  color: aquamarine;
+  font-size: 30px;
+}
+
+header h1 {
+  border-bottom: 3px dashed gray;
+}
+
+main h1 {
+  border: 1px solid red;
+}
+
+.main-text {
+  border: 3px dotted green;
+  border-radius: 20px;
+}
+
+.h1-tag {
+  color: blue;
+}
+
+.bold-heading {
+  color: pink;
+}
+
+#b-tag-id {
+  color: blueviolet;
+}
+
+.text-center {
+  text-align: center;
+}
